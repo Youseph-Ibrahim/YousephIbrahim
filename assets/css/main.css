@@ -149,10 +149,10 @@ input, select, textarea {
 		}
 
 	a {
-		-moz-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
-		-webkit-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
-		-ms-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
-		transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
+		-moz-transition: color 0.1s ease-in-out, border-bottom-color 0.1s ease-in-out;
+		-webkit-transition: color 0.1s ease-in-out, border-bottom-color 0.1s ease-in-out;
+		-ms-transition: color 0.1s ease-in-out, border-bottom-color 0.1s ease-in-out;
+		transition: color 0.1s ease-in-out, border-bottom-color 0.1s ease-in-out;
 		border-bottom: dotted 1px;
 		color: inherit;
 		text-decoration: none;
@@ -2056,22 +2056,22 @@ input, select, textarea {
 	}
 
 	::-webkit-input-placeholder {
-		color: rgba(244, 244, 255, 0.2) !important;
+		color: rgba(244, 244, 255, 0.1) !important;
 		opacity: 1.0;
 	}
 
 	:-moz-placeholder {
-		color: rgba(244, 244, 255, 0.2) !important;
+		color: rgba(244, 244, 255, 0.1) !important;
 		opacity: 1.0;
 	}
 
 	::-moz-placeholder {
-		color: rgba(244, 244, 255, 0.2) !important;
+		color: rgba(244, 244, 255, 0.1) !important;
 		opacity: 1.0;
 	}
 
 	:-ms-input-placeholder {
-		color: rgba(244, 244, 255, 0.2) !important;
+		color: rgba(244, 244, 255, 0.1) !important;
 		opacity: 1.0;
 	}
 
@@ -2144,10 +2144,10 @@ input, select, textarea {
 		}
 
 	a.icon.alt:before {
-		-moz-transition: background-color 0.2s ease-in-out;
-		-webkit-transition: background-color 0.2s ease-in-out;
-		-ms-transition: background-color 0.2s ease-in-out;
-		transition: background-color 0.2s ease-in-out;
+		-moz-transition: background-color 0.1s ease-in-out;
+		-webkit-transition: background-color 0.1s ease-in-out;
+		-ms-transition: background-color 0.1s ease-in-out;
+		transition: background-color 0.1s ease-in-out;
 	}
 
 	a.icon.alt:hover:before {
@@ -2380,10 +2380,10 @@ input, select, textarea {
 		}
 
 			ul.pagination li > .page {
-				-moz-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
-				-webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
-				-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
-				transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+				-moz-transition: background-color 0.1s ease-in-out, color 0.1s ease-in-out;
+				-webkit-transition: background-color 0.1s ease-in-out, color 0.1s ease-in-out;
+				-ms-transition: background-color 0.1s ease-in-out, color 0.1s ease-in-out;
+				transition: background-color 0.1s ease-in-out, color 0.1s ease-in-out;
 				border-bottom: 0;
 				display: inline-block;
 				font-size: 0.8em;
@@ -2509,10 +2509,10 @@ input, select, textarea {
 		-webkit-appearance: none;
 		-ms-appearance: none;
 		appearance: none;
-		-moz-transition: background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out;
-		-webkit-transition: background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out;
-		-ms-transition: background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out;
-		transition: background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out;
+		-moz-transition: background-color 0.1s ease-in-out, box-shadow 0.1s ease-in-out, color 0.1s ease-in-out;
+		-webkit-transition: background-color 0.1s ease-in-out, box-shadow 0.1s ease-in-out, color 0.1s ease-in-out;
+		-ms-transition: background-color 0.1s ease-in-out, box-shadow 0.1s ease-in-out, color 0.1s ease-in-out;
+		transition: background-color 0.1s ease-in-out, box-shadow 0.1s ease-in-out, color 0.1s ease-in-out;
 		background-color: transparent;
 		border: 0;
 		border-radius: 0;
@@ -2607,10 +2607,10 @@ input, select, textarea {
 			button.next:after,
 			.button.next:before,
 			.button.next:after {
-				-moz-transition: opacity 0.2s ease-in-out;
-				-webkit-transition: opacity 0.2s ease-in-out;
-				-ms-transition: opacity 0.2s ease-in-out;
-				transition: opacity 0.2s ease-in-out;
+				-moz-transition: opacity 0.1s ease-in-out;
+				-webkit-transition: opacity 0.1s ease-in-out;
+				-ms-transition: opacity 0.1s ease-in-out;
+				transition: opacity 0.1s ease-in-out;
 				background-position: center right;
 				background-repeat: no-repeat;
 				background-size: 36px 24px;
@@ -3140,10 +3140,10 @@ input, select, textarea {
 		}
 
 			#header .logo strong {
-				-moz-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
-				-webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
-				-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
-				transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+				-moz-transition: background-color 0.1s ease-in-out, color 0.1s ease-in-out;
+				-webkit-transition: background-color 0.1s ease-in-out, color 0.1s ease-in-out;
+				-ms-transition: background-color 0.1s ease-in-out, color 0.1s ease-in-out;
+				transition: background-color 0.1s ease-in-out, color 0.1s ease-in-out;
 				background-color: #ffffff;
 				color: #242943;
 				display: inline-block;
@@ -3212,10 +3212,10 @@ input, select, textarea {
 					}
 
 					#header nav a[href="#menu"]:after {
-						-moz-transition: opacity 0.2s ease-in-out;
-						-webkit-transition: opacity 0.2s ease-in-out;
-						-ms-transition: opacity 0.2s ease-in-out;
-						transition: opacity 0.2s ease-in-out;
+						-moz-transition: opacity 0.1s ease-in-out;
+						-webkit-transition: opacity 0.1s ease-in-out;
+						-ms-transition: opacity 0.1s ease-in-out;
+						transition: opacity 0.1s ease-in-out;
 						background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='32' viewBox='0 0 24 32' preserveAspectRatio='none'%3E%3Cstyle%3Eline %7B stroke-width: 2px%3B stroke: %239bf1ff%3B %7D%3C/style%3E%3Cline x1='0' y1='11' x2='24' y2='11' /%3E%3Cline x1='0' y1='21' x2='24' y2='21' /%3E%3Cline x1='0' y1='16' x2='24' y2='16' /%3E%3C/svg%3E");
 						opacity: 0;
 						z-index: 1;
@@ -3401,10 +3401,10 @@ input, select, textarea {
 	}
 
 		#banner:after {
-			-moz-transition: opacity 2.5s ease;
-			-webkit-transition: opacity 2.5s ease;
-			-ms-transition: opacity 2.5s ease;
-			transition: opacity 2.5s ease;
+			-moz-transition: opacity 1.0s ease;
+			-webkit-transition: opacity 1.0s ease;
+			-ms-transition: opacity 1.0s ease;
+			transition: opacity 1.0s ease;
 			-moz-transition-delay: 0.75s;
 			-webkit-transition-delay: 0.75s;
 			-ms-transition-delay: 0.75s;
@@ -3415,7 +3415,7 @@ input, select, textarea {
 			display: block;
 			height: 100%;
 			left: 0;
-			opacity: 0.85;
+			opacity: 0.2;
 			position: absolute;
 			top: 0;
 			width: 100%;
@@ -3487,7 +3487,7 @@ input, select, textarea {
 		}
 
 			#banner.major.alt {
-				opacity: 0.75;
+				opacity: 0.2;
 			}
 
 		#banner.style1:after {
@@ -3503,7 +3503,7 @@ input, select, textarea {
 		}
 
 		#banner.style4:after {
-			background-color: #e7b788;
+			background-color: #e7b888;
 		}
 
 		#banner.style5:after {
@@ -3874,10 +3874,10 @@ input, select, textarea {
 					}
 
 		#menu .close {
-			-moz-transition: color 0.2s ease-in-out;
-			-webkit-transition: color 0.2s ease-in-out;
-			-ms-transition: color 0.2s ease-in-out;
-			transition: color 0.2s ease-in-out;
+			-moz-transition: color 0.1s ease-in-out;
+			-webkit-transition: color 0.1s ease-in-out;
+			-ms-transition: color 0.1s ease-in-out;
+			transition: color 0.1s ease-in-out;
 			-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 			border: 0;
 			cursor: pointer;
@@ -3897,10 +3897,10 @@ input, select, textarea {
 		}
 
 			#menu .close:before, #menu .close:after {
-				-moz-transition: opacity 0.2s ease-in-out;
-				-webkit-transition: opacity 0.2s ease-in-out;
-				-ms-transition: opacity 0.2s ease-in-out;
-				transition: opacity 0.2s ease-in-out;
+				-moz-transition: opacity 0.1s ease-in-out;
+				-webkit-transition: opacity 0.1s ease-in-out;
+				-ms-transition: opacity 0.1s ease-in-out;
+				transition: opacity 0.1s ease-in-out;
 				background-position: center;
 				background-repeat: no-repeat;
 				content: '';
